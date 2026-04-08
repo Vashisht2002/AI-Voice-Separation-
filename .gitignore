@@ -1,0 +1,12 @@
+venv/
+node_modules/
+__pycache__/
+*.pyc
+*.mp3
+*.wav
+*.zip
+.env
+build/
+uploads/
+processed/
+separated/
